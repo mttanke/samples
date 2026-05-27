@@ -21,6 +21,7 @@ Step-by-step guides from basic agent creation to multi-agent orchestration.
 | [`13-human-in-the-loop`](./13-human-in-the-loop/) | Interrupts, hooks | Implement approval workflows with human oversight |
 | [`15-skills`](./15-skills/) | AgentSkills plugin, Skill dataclass | Load specialized instructions on demand with skills |
 | [`16-hooks-lifecycle`](./16-hooks-lifecycle/) | `HookProvider`, lifecycle events, `cancel_tool`, `retry`, `resume` | Tour the full hook lifecycle and use writable fields to control agent behavior |
+| [`17-conversation-management`](./17-conversation-management/) | `SlidingWindowConversationManager`, `NullConversationManager`, `SummarizingConversationManager` | Control agent message history with sliding window, null, and summarizing strategies |
 
 ## Getting Started
 
